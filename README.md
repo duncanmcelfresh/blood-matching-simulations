@@ -1,4 +1,4 @@
-# `blood-matching`: Matching Algorithms for Blood Donation
+# `blood-matching-simulations`: Matching Algorithms for Blood Donation
 
 ### Dependencies
 - either [gurobi](https://www.gurobi.com/) & gurobipy, or [xpress](https://www.fico.com/en/products/fico-xpress-solver) & xpress python API
